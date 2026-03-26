@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>THE LYER BOSS GAMES S.L.</title>
+    <link>https://www.lyerbossgames.com</link>
+    <description>Novedades, noticias y ofertas de THE LYER BOSS GAMES, tu tienda de videojuegos en Osuna</description>
+    <language>es</language>
+    <copyright>THE LYER BOSS GAMES S.L.</copyright>
+    <category>Videojuegos y Tecnología</category>
+
+    <item>
+        <title>Dragon Ball: Sparking! Zero ya disponible</title>
+        <link>https://store.bandainamcoent.eu/es/games/brands/dragon-ball-sparking-zero/?page=1</link>
+        <description>El esperado juego de lucha Dragon Ball Sparking! Zero ya está disponible en nuestra tienda para PlayStation 5, Xbox Series X y PC. ¡No te quedes sin tu copia!</description>
+        <pubDate>Thu, 20 Mar 2025, 10:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+        <title>Nueva colección de cartas y juegos Pokémon</title>
+        <link>https://www.pokemon.com/es</link>
+        <description>Descubre las últimas novedades del mundo Pokémon: nuevas expansiones de cartas coleccionables, videojuegos y productos exclusivos disponibles en nuestra Zona Pokémon.</description>
+        <pubDate>Mon, 10 Mar 2025, 10:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+        <title>Novedades Nintendo: juegos y accesorios</title>
+        <link>https://www.nintendo.com/es-es/?srsltid=AfmBOoqhATZc8vXA3-m7XstQx0PLj6oedQSn9sFE9snsesbwZxAKj5_w</link>
+        <description>Los últimos lanzamientos de Nintendo Switch ya están en stock en THE LYER BOSS GAMES. Consulta títulos, accesorios y fechas de próximos lanzamientos.</description>
+        <pubDate>Fri, 28 Feb 2025, 10:00:00 +0100</pubDate>
+    </item>
+
+</channel>
+</rss>
